@@ -1,0 +1,23 @@
+{
+  "GARCH_parameters": {
+    "mu": 0.16630788211462788,
+    "omega": 0.5386388022217756,
+    "alpha[1]": 0.12537411915639152,
+    "beta[1]": 0.843292759632348
+  },
+  "JumpDiffusion_parameters": {
+    "jump_frequency_per_year": 6.409844175117486,
+    "jump_mean": -0.02880286330530797,
+    "jump_std": 0.14771148040844326,
+    "threshold": 0.10692731173553005
+  },
+  "Lognormal_parameters": {
+    "annual_cagr": 0.6478154750436862,
+    "annual_vol": 0.6809478074444257
+  },
+  "Sample": 4043,
+  "Period": {
+    "Start": "2014-09-18",
+    "End": "2025-10-13"
+  }
+}
